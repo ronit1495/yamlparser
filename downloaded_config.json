@@ -1,0 +1,22 @@
+{
+ "enviornment": "production",
+ "region": "a7",
+ "configuration": {
+  "service": "some-service",
+  "team": "Some Team",
+  "cost_center": 1564577
+ },
+ "helm": {
+  "chart_name": "some-chart",
+  "release_name": "sc",
+  "helm_version": "3"
+ },
+ "notifications": {
+  "deployments": "#some-channel-deployments",
+  "releases": "#some-channel-releases"
+ },
+ "repo": {
+  "url": "git@git.corp.adobe.com:some-org/some-repo.git",
+  "version": "main"
+ }
+}

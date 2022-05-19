@@ -1,0 +1,74 @@
+2022-05-19 18:43:10,893 [INFO] Upload to S3 Bucket started
+2022-05-19 18:43:12,310 [ERROR] ERROR: File upload failed.
+2022-05-19 18:51:18,868 [INFO] Succefully read the yaml.
+2022-05-19 18:51:18,868 [INFO] Initailise data for config creation.
+2022-05-19 18:51:18,869 [INFO] Build the JSON output for passed configuration.
+2022-05-19 18:51:18,870 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 18:51:18,870 [INFO] Upload to S3 Bucket started
+2022-05-19 18:51:18,870 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets
+2022-05-19 18:51:20,261 [INFO] File uploaded successfully.
+2022-05-19 18:53:30,949 [INFO] Succefully read the yaml.
+2022-05-19 18:53:30,949 [INFO] Initailise data for config creation.
+2022-05-19 18:53:30,949 [INFO] Build the JSON output for passed configuration.
+2022-05-19 18:53:30,950 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 18:53:30,951 [INFO] Upload to S3 Bucket started
+2022-05-19 18:53:30,951 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets
+2022-05-19 18:53:32,867 [INFO] File uploaded successfully.
+2022-05-19 18:53:59,367 [INFO] Succefully read the yaml.
+2022-05-19 18:53:59,367 [INFO] Initailise data for config creation.
+2022-05-19 18:53:59,367 [INFO] Build the JSON output for passed configuration.
+2022-05-19 18:53:59,368 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 18:53:59,368 [INFO] Upload to S3 Bucket started
+2022-05-19 18:53:59,368 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets
+2022-05-19 18:54:00,696 [INFO] File uploaded successfully.
+2022-05-19 19:20:27,773 [INFO] Succefully read the yaml.
+2022-05-19 19:20:27,773 [INFO] Initailise data for config creation.
+2022-05-19 19:20:27,773 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:20:27,774 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 19:20:27,775 [INFO] Upload to S3 Bucket started
+2022-05-19 19:20:27,775 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:20:29,053 [ERROR] File upload failed.
+2022-05-19 19:20:48,220 [INFO] Succefully read the yaml.
+2022-05-19 19:20:48,221 [INFO] Initailise data for config creation.
+2022-05-19 19:20:48,221 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:20:48,222 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 19:20:48,222 [INFO] Upload to S3 Bucket started
+2022-05-19 19:20:48,222 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:20:49,626 [INFO] File uploaded successfully.
+2022-05-19 19:23:57,621 [INFO] Succefully read the yaml.
+2022-05-19 19:23:57,621 [INFO] Initailise data for config creation.
+2022-05-19 19:23:57,622 [INFO] Initailise data for config creation.
+2022-05-19 19:23:57,622 [WARNING] Exception occured since enviornment and region does not exist, hence initialized file with common values.
+2022-05-19 19:23:57,622 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:23:57,623 [INFO] Configuration file file has been generated for the given input file.
+2022-05-19 19:23:57,623 [INFO] Upload to S3 Bucket started
+2022-05-19 19:23:57,623 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:23:58,961 [INFO] File uploaded successfully.
+2022-05-19 19:24:50,165 [INFO] Succefully read the yaml.
+2022-05-19 19:24:50,166 [INFO] Initailise data for config creation.
+2022-05-19 19:24:50,166 [INFO] Initailise data for config creation.
+2022-05-19 19:24:50,166 [WARNING] Exception occured since enviornment and region does not exist, hence initialized file with common values.
+2022-05-19 19:24:50,166 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:24:50,167 [INFO] Configuration file has been generated for the given input file.
+
+2022-05-19 19:24:50,167 [INFO] Upload to S3 Bucket started
+2022-05-19 19:24:50,167 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:24:51,656 [INFO] File uploaded successfully.
+2022-05-19 19:26:53,670 [INFO] Succefully read the yaml.
+2022-05-19 19:26:53,670 [INFO] Initailise data for config creation.
+2022-05-19 19:26:53,670 [INFO] Initailise data for config creation.
+2022-05-19 19:26:53,670 [WARNING] Exception occured since enviornment and region does not exist, hence initialized file with common values.
+2022-05-19 19:26:53,670 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:26:53,671 [INFO] Configuration file has been generated for the given input file.
+
+2022-05-19 19:26:53,671 [INFO] Upload to S3 Bucket started
+2022-05-19 19:26:53,671 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:26:55,409 [INFO] File uploaded successfully.
+2022-05-19 19:57:04,885 [INFO] Succefully read the yaml.
+2022-05-19 19:57:04,886 [INFO] Initailise data for config creation.
+2022-05-19 19:57:04,886 [INFO] Build the JSON output for passed configuration.
+2022-05-19 19:57:04,887 [INFO] Configuration file has been generated for the given input file.
+
+2022-05-19 19:57:04,887 [INFO] Upload to S3 Bucket started
+2022-05-19 19:57:04,887 [INFO] Connecting to S3, make sure you have used aws configure to allow access to buckets.
+2022-05-19 19:57:06,288 [INFO] File uploaded successfully.

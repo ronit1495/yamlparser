@@ -1,0 +1,15 @@
+{
+    "environment": "dev", "region": "va6", "configuration": {
+    "service_name": "some-service", "team_name": "Some Team", "cost_center": 1564577,
+    "helm": {
+    "chart_name": "some-chart",
+    "helm_version": "3",
+    "release_name": "sc",
+    "values": "/some/path/in/some-repo/dev/va6.yaml"
+    }, "notifications": {
+    "deployments": "#some-channel-deployments",
+    "releases": "#some-channel-releases" },
+    "repo": {
+    "url": "git@git.corp.adobe.com:some-org/some-repo.git", "version": "main"
+    } }
+}

@@ -1,0 +1,28 @@
+{
+ "enviornment": "production",
+ "region": "va6",
+ "configuration": [
+  {
+   "service": "some-service",
+   "team": "Some Team",
+   "cost_center": 1564577
+  }
+ ],
+ "helm": [
+  {
+   "chart_name": "some-chart",
+   "release_name": "sc",
+   "helm_version": "3"
+  },
+  {
+   "values": "/some/path/in/some-repo/production/va6.yaml"
+  }
+ ],
+ "notifications": {
+  "deployments": "#some-channel-deployments",
+  "releases": "#some-channel-releases"
+ },
+ "repo": {
+  "version": "v1.34.2"
+ }
+}
